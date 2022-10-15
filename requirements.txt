@@ -1,0 +1,9 @@
+beautifulsoup4
+ipywidgets<8.0
+jupyter
+numpy
+pyvis
+requests
+scipy
+selenium
+voila
